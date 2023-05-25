@@ -1,4 +1,4 @@
-module github.com/ironpark/remotray
+module github.com/phste/remotray
 
 go 1.18
 
